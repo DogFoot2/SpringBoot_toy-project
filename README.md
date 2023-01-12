@@ -31,7 +31,7 @@ Build Tool: Maven
 
 #### 화면구성(사진캡쳐)
 <img width="60%" alt="메인" src="https://user-images.githubusercontent.com/97068969/162135315-89d1cfae-5f49-4b27-93c2-f3929f89776f.PNG">
-#### ✔메인 화면 - 로그인 카테고리만 보여짐
+✔메인 화면 - 로그인 카테고리만 보여짐
 <br/>
 <br/>
 <br/>
